@@ -1,1 +1,1 @@
-My Project from second year, used arduino uni to run this thing
+My Project from second year, used arduino uno to run this thing
